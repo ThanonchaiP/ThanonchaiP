@@ -1,4 +1,10 @@
-## Hi there 👋
+# 👋 Hi, I'm Thanonchai Paliwong
+
+- 👩🏻‍💻 I’m currently working as a frontend developer
+- 🌱 I’m currently learning about backend and mobile development
+
+### 💻 Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,materialui,tailwind,docker,express,emotion,git,nodejs,postman,styledcomponents,&perline=10)](https://skillicons.dev)
 
 <!--
 **ThanonchaiP/ThanonchaiP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
